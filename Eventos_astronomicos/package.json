@@ -1,0 +1,14 @@
+{
+  "name": "eventos_astronomicos",
+  "version": "1.0.0",
+  "description": "projeto devmedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js1"
+  },
+  "author": "Oziel Marcos",
+  "license": "ISC",
+  "dependencies": {},
+  "type": "module"
+}
